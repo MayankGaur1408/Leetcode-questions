@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2582-pass-the-pillow) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
