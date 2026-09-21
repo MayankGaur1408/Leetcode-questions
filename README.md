@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1470-shuffle-the-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
