@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0344-reverse-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
