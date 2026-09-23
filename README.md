@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0344-reverse-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
 | ------- |
