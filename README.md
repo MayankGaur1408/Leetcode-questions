@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1470-shuffle-the-array) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Heap (Priority Queue)
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
