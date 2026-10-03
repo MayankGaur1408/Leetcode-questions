@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1389-create-target-array-in-the-given-order) |
