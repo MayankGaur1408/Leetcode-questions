@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0007-reverse-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2582-pass-the-pillow) |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
