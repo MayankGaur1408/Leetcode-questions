@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
+| [0507-perfect-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
