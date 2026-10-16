@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0896-monotonic-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0344-reverse-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
