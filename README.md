@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2582-pass-the-pillow) |
 | [2974-minimum-number-game](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2974-minimum-number-game) |
+| [3028-ant-on-the-boundary](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
