@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
