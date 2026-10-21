@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0896-monotonic-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
