@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
