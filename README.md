@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3110-score-of-a-string) |
