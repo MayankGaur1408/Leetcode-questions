@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
