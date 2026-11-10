@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3978-unique-middle-element](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3978-unique-middle-element) |
+| [4020-elevator-requests-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3028-ant-on-the-boundary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
