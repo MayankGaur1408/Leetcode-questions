@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
