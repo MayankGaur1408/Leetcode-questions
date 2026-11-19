@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0507-perfect-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2396-strictly-palindromic-number) |
