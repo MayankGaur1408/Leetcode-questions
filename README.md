@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0507-perfect-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -228,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Minimax
