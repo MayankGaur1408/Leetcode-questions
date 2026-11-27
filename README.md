@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
@@ -303,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
