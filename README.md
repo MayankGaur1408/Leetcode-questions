@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1051-height-checker) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MayankGaur1408/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
